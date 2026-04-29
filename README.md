@@ -19,3 +19,4 @@ https://titanic-ml-tdepamur6ehxakc3apugun.streamlit.app/
 ## Tech Stack
 Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Streamlit
 
+<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/da60a9f9-6b22-4d5e-b100-4499b107262e" />
